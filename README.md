@@ -2,7 +2,7 @@
 
   <img src="https://media1.tenor.com/m/nwu9fftUJPQAAAAC/wanderer-scaramouche.gif" alt="davisual.studio banner" width="100%">
   
-  <br><br>
+
 
   <img src="assets/davisual.studio.png" alt="Logo davisual.studio" width="100%">
 
